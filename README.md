@@ -65,11 +65,10 @@
 
 ## 🤝 Let's Connect
 
-<p align="center">
-  <a href="https://linkedin.com/in/tobiasceruttigothe" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Tobias%20Cerutti%20Gothe-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/tobias-cerutti-49184a216/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Tobias%20Cerutti-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
 
 <br>
 <p align="center">
