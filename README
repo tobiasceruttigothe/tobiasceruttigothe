@@ -1,1 +1,70 @@
-HELLO
+<h1 align="center">Hi there! 👋 I'm [Your Name]</h1>
+
+<p align="center">
+  💻 Systems Engineering student at UTN FRC | DevOps Intern at PSI - UNC<br>
+  🚀 Passionate about backend development and infrastructure automation.
+</p>
+
+---
+
+### 🧑‍💻 About Me
+
+- 🎓 I'm currently studying Systems Engineering at UTN FRC.
+- 💼 I work as a DevOps intern at PSI (UNC), where I manage servers and automation using Bash, Docker, Ansible, Grafana and Telegraf.
+- 💻 I have basic knowledge of HTML, CSS, JavaScript and React for web development.
+- 🐘 I interact with PostgreSQL databases and have a good understanding of SQL.
+- ☕ I'm particularly interested in backend development with Java and Spring Boot, and I’m starting to build personal projects with this stack.
+- 📦 I developed a fullstack university project using React for the frontend and Node.js for the backend.
+- 🔧 I use Git for version control in all my projects.
+- 🌍 One of my current goals is to improve my English communication skills — both written and spoken.
+
+---
+
+### 🛠️ Technologies & Tools
+
+#### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+#### Frameworks & Technologies
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+#### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Telegraf](https://img.shields.io/badge/Telegraf-22B7F0?style=for-the-badge&logo=influxdb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 🎯 Current Goals
+
+- 📚 Deepen my knowledge in backend development with Java + Spring Boot.
+- 🧠 Improve my understanding of relational databases and SQL.
+- 🤝 Contribute to real-world projects combining backend and DevOps.
+- 🌐 Learn and practice English to reach professional fluency.
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[YourGitHubUsername]&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YourGitHubUsername]&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-[YourLinkedInUsername]-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[YourLinkedInUsername])
+<!-- Add portfolio or email if you'd like -->
+
+---
+
+⭐ Thanks for visiting my profile!
